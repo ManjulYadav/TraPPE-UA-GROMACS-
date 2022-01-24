@@ -1,0 +1,18 @@
+
+
+
+[ bondtypes ]
+; i    j  func       b0          kb
+; CHX-OH
+  CH3O  O     1       0.1430    502416.0
+; CHx-CHy
+  CH   CH    1       0.1400    502416.0
+  ; O-H
+  O    H     1       0.0945    502416.0
+  
+  [ angletypes ]
+;  i    j    k  func       th0       cth
+; CHX-[O]-H
+  CH3O  O    H     1       108.5     460.62120
+;CHx-[CH]-CHy  
+  CH   CH   CH    1       120.0     527.18400

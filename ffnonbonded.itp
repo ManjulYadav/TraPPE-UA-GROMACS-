@@ -1,0 +1,9 @@
+[ atomtypes ]
+; full atom descriptions are available in ffoplsaa.atp
+; name  bond_type    mass    charge   ptype          sigma      epsilon
+  O       O            15.99940  -0.700    A       3.02000e-01  7.73245e-01; CHX-[O]-H
+  H       H            1.00800    0.435    A       0.00000e-00  0.00000e-00; O-[H]
+  CH3O    CH3O         15.03500   0.265    A       3.75000e-01  8.14817e-01; [CH3]-OH
+  CH      CH           13.01900   0.000    A       3.69500e-01  4.19880e-01; CH+[CH]+CH
+
+  		  

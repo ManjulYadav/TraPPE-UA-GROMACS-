@@ -1,0 +1,5 @@
+  O       15.99940 ; Oxygen
+  H        1.00800 ; Hydrogen (only attaches to an oxygen)
+CH3       15.03500 ; Methyl attached to an oxygen 
+ CH       13.01900 ; aromatic carbon six-membered ring
+
